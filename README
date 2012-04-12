@@ -1,0 +1,6 @@
+Simple CLI query parallelisation for MySQL
+
+Todo:
+Expose as local socket-based service
+Switch in node.dbslayer.js
+Allow credentials to be passed separately (file or hidden from ps)
